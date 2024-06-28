@@ -1,7 +1,7 @@
-Hola 👋, my name is Marc Cristobal
+Hi 👋, my name is Marc Cristobal
 
 - 🌱 Software Developer.
-- 📫 Contacto: **marc7cs@gmail.com**
+- 📫 Contact: **marc7cs@gmail.com**
 - 📖 CV: **[https://drive.google.com/file/d/15Usstqu3CVZO5nfjAEntn7ZZ2SpNleVp/view?usp=sharing](https://drive.google.com/file/d/1onaU17x_pBXpND4ry_PdFd2cf6cH4AGu/view?usp=sharing)**
 
 ## Technologies:
