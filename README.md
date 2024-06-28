@@ -1,10 +1,10 @@
-Hola 👋, mi nombre es Marc Cristóbal
+Hola 👋, my name is Marc Cristobal
 
-- 🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma (DAM).
+- 🌱 Software Developer.
 - 📫 Contacto: **marc7cs@gmail.com**
-- 📖 CV: **https://drive.google.com/file/d/15Usstqu3CVZO5nfjAEntn7ZZ2SpNleVp/view?usp=sharing**
+- 📖 CV: **[https://drive.google.com/file/d/15Usstqu3CVZO5nfjAEntn7ZZ2SpNleVp/view?usp=sharing](https://drive.google.com/file/d/1onaU17x_pBXpND4ry_PdFd2cf6cH4AGu/view?usp=sharing)**
 
-## Tecnologías:
+## Technologies:
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
